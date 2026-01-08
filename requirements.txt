@@ -1,0 +1,21 @@
+# Taller Sesión 4: LangChain Chatbot
+# Asistente Conversacional para E-commerce
+
+# Core dependencies
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Optional but recommended
+langchain-huggingface>=0.0.1  # Para alternativa sin API key
+ipywidgets>=8.0.0              # Para widgets interactivos
+jupyter>=1.0.0                  # Si ejecutas localmente
+
+# Versiones específicas probadas (opcional)
+# langchain==0.1.0
+# langchain-community==0.0.20
+# langchain-openai==0.0.5
+# openai==1.7.0
+# python-dotenv==1.0.0
