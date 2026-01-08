@@ -1,7 +1,9 @@
-# 🤖 Taller Sesión 4: Chatbot LangChain para E-commerce
+# 🤖 Sesión 4: Chatbot LangChain para E-commerce
 
+**Módulo:** Sesión 4
+**Docente:** Angelo Castillo 
 **Autor:** Alexander Chavez  
-**Módulo:** Sesión 4 - LangChain & IA Conversacional
+
 
 ---
 
