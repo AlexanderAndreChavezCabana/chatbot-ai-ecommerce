@@ -1,6 +1,6 @@
 # 🤖 Taller Sesión 4: Chatbot LangChain para E-commerce
 
-**Estudiante:** Sistema Completo de Chatbot Inteligente  
+**Autor:** Alexander Chavez  
 **Módulo:** Sesión 4 - LangChain & IA Conversacional
 
 ---
